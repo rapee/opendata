@@ -1,0 +1,31 @@
+{
+  "name": "opendata-election",
+  "version": "1.0.0",
+  "description": "Commonly used data in the context of Thailand that I've always wished some one did this so I don't have to. End up doing it myself.",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel parse.js | node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapee/opendata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapee/opendata/issues"
+  },
+  "homepage": "https://github.com/rapee/opendata#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "csv": "^3.1.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.47",
+    "@babel/core": "^7.0.0-beta.47",
+    "@babel/polyfill": "^7.0.0-beta.47",
+    "@babel/preset-env": "^7.0.0-beta.47"
+  }
+}
