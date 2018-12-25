@@ -4,9 +4,10 @@ Commonly used data in the context of Thailand that I've always wished some one d
 
 ## List of data
 
-- [Common Thai person name](https://github.com/rapee/opendata/blob/master/thai_person_name.csv)
+- [Common Thai person name](https://github.com/rapee/opendata/tree/master/person_name)
 - [Thailand provinces, amphoes and tambons](https://github.com/rapee/opendata/tree/master/map)
+- [Election District](https://github.com/rapee/opendata/tree/master/election)
 
-I tried to reference to original data source and how to prepare data as good as I can.
+## Disclaimer
 
-The more people use, the better.
+References to original source and how to prepare data are documented in each data set. Feel free to suggest errata or references to better data source.
